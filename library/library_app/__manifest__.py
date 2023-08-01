@@ -1,10 +1,9 @@
 {
-    "name": "Library Management",
-    "summary": "Manage library catalog and book lending.",
-    "author": "Daniel Reis",
+    "name": "Biblioteca",
+    "summary": "Modelo para una biblioteca, biblioteca y catálogos de libros",
+    "author": "Italo Silva Guanilo",
     "license": "AGPL-3",
-    "website": "https://github.com/PacktPublishing"
-               "/Odoo-15-Development-Essentials",
+    "website": "https://github.com/italo2102/Biblioteca/tree/main/library",
     "version": "15.0.1.0.0",
     "category": "Services/Library",
     "depends": ["base"],
